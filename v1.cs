@@ -5,7 +5,7 @@ class MainClass
 {
     public static void Main(string[] args)
     {
-        string basePath = "C:\\Users\\amira\\OneDrive\\Desktop\\c#";
+        string basePath = "C:\\";
         while (true)
         {
             string folderName = Path.GetRandomFileName();
